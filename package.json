@@ -1,0 +1,25 @@
+{
+  "name": "pm-cli",
+  "version": "0.1.0",
+  "description": "Prototype manager CLI",
+  "type": "commonjs",
+  "bin": {
+    "pm": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "ts-node src/cli.ts",
+    "start": "node dist/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "yaml": "^2.8.2"
+  }
+}
