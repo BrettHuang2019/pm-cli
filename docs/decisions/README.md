@@ -12,8 +12,6 @@ Optional structured format (faster, but not required):
 ADR: <short title>
 Context: <why this matters now>
 Decision: <what we chose>
-Alternatives: <option A>; <option B>
-Consequences: <tradeoffs, risks, follow-up>
 ```
 
 Codex workflow when a decision is detected:
@@ -35,3 +33,4 @@ Detection rules:
 | --- | --- | --- | --- | --- |
 | [0001](./0001-chat-driven-adr-capture.md) | Chat-Driven ADR Capture | 2026-02-25 | superseded | none |
 | [0002](./0002-implicit-adr-intent-detection.md) | Implicit ADR Intent Detection | 2026-02-25 | accepted | 0001 |
+| [0003](./0003-simplified-adr-sections.md) | Simplified ADR Sections | 2026-02-25 | accepted | none |

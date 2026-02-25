@@ -11,15 +11,3 @@
 ## Decision
 
 <chosen approach>
-
-## Alternatives Considered
-
-- <alternative 1>
-- <alternative 2>
-
-## Consequences
-
-- Positive: <benefit>
-- Negative: <cost/risk>
-- Follow-up: <next step>
-
