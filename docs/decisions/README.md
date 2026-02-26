@@ -34,3 +34,4 @@ Detection rules:
 | [0001](./0001-chat-driven-adr-capture.md) | Chat-Driven ADR Capture | 2026-02-25 | superseded | none |
 | [0002](./0002-implicit-adr-intent-detection.md) | Implicit ADR Intent Detection | 2026-02-25 | accepted | 0001 |
 | [0003](./0003-simplified-adr-sections.md) | Simplified ADR Sections | 2026-02-25 | accepted | none |
+| [0004](./0004-scaffold-default-workflow-into-target-project.md) | Scaffold Default Workflow Into Target Project | 2026-02-26 | accepted | none |
